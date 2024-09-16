@@ -12,6 +12,10 @@ Repositório contendo notas de estudo de matemática para Data Science.
 - Transformações lineares.
 
 ### 1.2. Autovalores e Autovetores
+- Definição
+- Representação Vetorial
+- Polinômio Característico
+- Prova Real
 
 ## 2. Cálculo
 
