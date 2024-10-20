@@ -18,5 +18,9 @@ Repositório contendo notas de estudo de matemática para Data Science.
 - Prova Real
 
 ## 2. Cálculo
+### 2.1. Funções
+- Definição de funções
+- Tipos de funções
+- Transformação de funções
 
 
