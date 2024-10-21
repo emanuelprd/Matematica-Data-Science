@@ -23,4 +23,9 @@ Repositório contendo notas de estudo de matemática para Data Science.
 - Tipos de funções
 - Transformação de funções
 
+- ### 2.2. Limites e Derivadas
+- Definição de limites
+- Reta Tangente
+- Definição de derivadas
+
 
