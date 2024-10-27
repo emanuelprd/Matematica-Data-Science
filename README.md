@@ -28,4 +28,9 @@ Repositório contendo notas de estudo de matemática para Data Science.
 - Reta Tangente
 - Definição de derivadas
 
+### 2.2. Introdução a Integrais
+- Cálculo de áreas
+- Integral definida e Indefinida
+- Regra de Substituição
+
 
