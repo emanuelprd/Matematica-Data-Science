@@ -25,7 +25,7 @@ Repositório contendo notas de estudo de matemática para Data Science.
 ## 2. Cálculo
 
 <p align="center">
-<img src="https://github.com/emanuelprd/Matematica-Data-Science/blob/main/2.%20C%C3%A1lculo/2.1.1.%20C%C3%A1lculo:%20Ilustra%C3%A7%C3%A3o.png?raw=true" width="350"/>
+<img src="https://github.com/emanuelprd/Matematica-Data-Science/blob/main/2.%20C%C3%A1lculo/2.1.1.%20C%C3%A1lculo:%20Ilustra%C3%A7%C3%A3o.png?raw=true" width="400"/>
 </p>
 
 ### 2.1. Funções
