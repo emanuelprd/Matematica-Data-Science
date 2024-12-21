@@ -1,7 +1,5 @@
 # Matematica-Data-Science
 
-Repositório contendo notas de estudo de matemática para Data Science. 
-
 ## 1. Algebra Linear
 
 <p align="center">
