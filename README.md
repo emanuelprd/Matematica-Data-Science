@@ -41,4 +41,11 @@
 - Integral definida e Indefinida
 - Regra de Substituição
 
+## 3. Probabilidade
+
+### 3.1. Introdução a Probabilidade
+- Definições e noções fundamentais
+- Espaços Amostrais Finitos
+- Eventos dependentes e independentes
+- Teorema de Bayes
 
