@@ -43,9 +43,16 @@
 
 ## 3. Probabilidade
 
+<p align="center">
+<img src="https://github.com/emanuelprd/Matematica-Data-Science/blob/main/3.%20Probabilidade/3.2.1.%20Distribui%C3%A7%C3%A3o:%20Ilustra%C3%A7%C3%A3o.png" width="400"/>
+</p>
+
 ### 3.1. Introdução a Probabilidade
 - Definições e noções fundamentais
 - Espaços Amostrais Finitos
 - Eventos dependentes e independentes
 - Teorema de Bayes
+
+### 3.2. Distribuição de Probabilidades
+- Distribuições de Variáveis Aleatórias Discretas
 
